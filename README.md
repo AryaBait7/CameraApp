@@ -1,4 +1,4 @@
-# CameraPep
+# CameraApp
 http://camera-app-liart.vercel.app/
 
 This project allows user to capture live and view recorded photos and videos .
